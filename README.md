@@ -2,8 +2,6 @@
 
 first task : **나만의 대시보드 만들어보기!**
 
-with what?
-
 ### 참고
 
 * https://github.com/cardiomoon/shinyLecture2
